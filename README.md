@@ -42,12 +42,14 @@ To implement a Queue using a Linked List for managing food delivery orders and p
 7. Repeat the operations until the user selects Exit.
 8. Stop the program.
 
-##Advantages
-1.Orders are processed in FIFO order.
-2.Memory is allocated dynamically as new orders are added.
-3.The queue can grow as needed, subject to available memory.
-4.Customers' pending orders can be displayed easily.
+## Advantages
 
-##Conclusion
+1. Orders are processed in FIFO order.
+2. Memory is allocated dynamically as new orders are added.
+3. The queue can grow as needed, subject to available memory.
+4. Customers' pending orders can be displayed easily.
+
+## Conclusion
+
 The Food Delivery Order Queue Management System demonstrates the implementation of a Queue using a Singly Linked List in C++. It performs essential operations such as placing orders, delivering orders, displaying pending orders, and viewing the next order. This project helps in understanding FIFO principles, pointers, classes, and dynamic memory allocation.
 
