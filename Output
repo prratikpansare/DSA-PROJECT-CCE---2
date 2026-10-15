@@ -1,0 +1,102 @@
+===== FOOD DELIVERY ORDER QUEUE =====
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+Enter your choice: 1
+
+Enter customer name: Rahul
+Enter food item: Pizza
+
+Order placed successfully!
+Order ID: 1
+
+===== FOOD DELIVERY ORDER QUEUE =====
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+Enter your choice: 1
+
+Enter customer name: Amit
+Enter food item: Burger
+
+Order placed successfully!
+Order ID: 2
+
+===== FOOD DELIVERY ORDER QUEUE =====
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+Enter your choice: 1
+
+Enter customer name: Priya
+Enter food item: Sandwich
+
+Order placed successfully!
+Order ID: 3
+
+===== FOOD DELIVERY ORDER QUEUE =====
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+Enter your choice: 3
+
+--- Pending Food Orders ---
+Order ID: 1 | Customer: Rahul | Food: Pizza
+Order ID: 2 | Customer: Amit | Food: Burger
+Order ID: 3 | Customer: Priya | Food: Sandwich
+
+===== FOOD DELIVERY ORDER QUEUE =====
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+Enter your choice: 4
+
+Next Order
+Order ID: 1
+Customer: Rahul
+Food Item: Pizza
+
+===== FOOD DELIVERY ORDER QUEUE =====
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+Enter your choice: 2
+
+Delivering Order
+Order ID: 1
+Customer: Rahul
+Food Item: Pizza
+
+===== FOOD DELIVERY ORDER QUEUE =====
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+Enter your choice: 3
+
+--- Pending Food Orders ---
+Order ID: 2 | Customer: Amit | Food: Burger
+Order ID: 3 | Customer: Priya | Food: Sandwich
+
+===== FOOD DELIVERY ORDER QUEUE =====
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+Enter your choice: 5
+
+Thank you!
