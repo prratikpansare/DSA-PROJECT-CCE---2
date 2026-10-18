@@ -1,0 +1,366 @@
+========== FOOD DELIVERY ORDER QUEUE ==========
+
+1. Place Order
+2. Deliver Order
+3. Display Pending Orders
+4. View Next Order
+5. Exit
+
+Enter your choice: 1
+
+Enter customer name: Rahul
+Enter food item: Pizza
+Enter quantity: 2
+Enter price per item: 150
+
+Order placed successfully!
+Order ID: 1
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 1
+Customer Name  : Rahul
+Food Item      : Pizza
+Quantity       : 2
+Price per Item : Rs. 150
+----------------------------------------
+Total Amount   : Rs. 300
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Amit
+Enter food item: Burger
+Enter quantity: 2
+Enter price per item: 80
+
+Order placed successfully!
+Order ID: 2
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 2
+Customer Name  : Amit
+Food Item      : Burger
+Quantity       : 2
+Price per Item : Rs. 80
+----------------------------------------
+Total Amount   : Rs. 160
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Priya
+Enter food item: Sandwich
+Enter quantity: 1
+Enter price per item: 100
+
+Order placed successfully!
+Order ID: 3
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 3
+Customer Name  : Priya
+Food Item      : Sandwich
+Quantity       : 1
+Price per Item : Rs. 100
+----------------------------------------
+Total Amount   : Rs. 100
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Rohan
+Enter food item: Pasta
+Enter quantity: 2
+Enter price per item: 120
+
+Order placed successfully!
+Order ID: 4
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 4
+Customer Name  : Rohan
+Food Item      : Pasta
+Quantity       : 2
+Price per Item : Rs. 120
+----------------------------------------
+Total Amount   : Rs. 240
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Sneha
+Enter food item: French Fries
+Enter quantity: 1
+Enter price per item: 90
+
+Order placed successfully!
+Order ID: 5
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 5
+Customer Name  : Sneha
+Food Item      : French Fries
+Quantity       : 1
+Price per Item : Rs. 90
+----------------------------------------
+Total Amount   : Rs. 90
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Akash
+Enter food item: Sandwich
+Enter quantity: 2
+Enter price per item: 100
+
+Order placed successfully!
+Order ID: 6
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 6
+Customer Name  : Akash
+Food Item      : Sandwich
+Quantity       : 2
+Price per Item : Rs. 100
+----------------------------------------
+Total Amount   : Rs. 200
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Neha
+Enter food item: Dosa
+Enter quantity: 3
+Enter price per item: 70
+
+Order placed successfully!
+Order ID: 7
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 7
+Customer Name  : Neha
+Food Item      : Dosa
+Quantity       : 3
+Price per Item : Rs. 70
+----------------------------------------
+Total Amount   : Rs. 210
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Karan
+Enter food item: Biryani
+Enter quantity: 2
+Enter price per item: 180
+
+Order placed successfully!
+Order ID: 8
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 8
+Customer Name  : Karan
+Food Item      : Biryani
+Quantity       : 2
+Price per Item : Rs. 180
+----------------------------------------
+Total Amount   : Rs. 360
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Pooja
+Enter food item: Noodles
+Enter quantity: 1
+Enter price per item: 130
+
+Order placed successfully!
+Order ID: 9
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 9
+Customer Name  : Pooja
+Food Item      : Noodles
+Quantity       : 1
+Price per Item : Rs. 130
+----------------------------------------
+Total Amount   : Rs. 130
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Om
+Enter food item: Pizza
+Enter quantity: 1
+Enter price per item: 150
+
+Order placed successfully!
+Order ID: 10
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 10
+Customer Name  : Om
+Food Item      : Pizza
+Quantity       : 1
+Price per Item : Rs. 150
+----------------------------------------
+Total Amount   : Rs. 150
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Anjali
+Enter food item: Burger
+Enter quantity: 3
+Enter price per item: 80
+
+Order placed successfully!
+Order ID: 11
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 11
+Customer Name  : Anjali
+Food Item      : Burger
+Quantity       : 3
+Price per Item : Rs. 80
+----------------------------------------
+Total Amount   : Rs. 240
+========================================
+
+
+Enter your choice: 1
+
+Enter customer name: Siddharth
+Enter food item: Biryani
+Enter quantity: 2
+Enter price per item: 180
+
+Order placed successfully!
+Order ID: 12
+
+========== FOOD DELIVERY BILL ==========
+Order ID       : 12
+Customer Name  : Siddharth
+Food Item      : Biryani
+Quantity       : 2
+Price per Item : Rs. 180
+----------------------------------------
+Total Amount   : Rs. 360
+========================================
+
+
+Enter your choice: 3
+
+========== PENDING FOOD ORDERS ==========
+
+Order ID: 1 | Customer: Rahul | Food: Pizza
+Quantity: 2 | Total Bill: Rs. 300
+
+Order ID: 2 | Customer: Amit | Food: Burger
+Quantity: 2 | Total Bill: Rs. 160
+
+Order ID: 3 | Customer: Priya | Food: Sandwich
+Quantity: 1 | Total Bill: Rs. 100
+
+Order ID: 4 | Customer: Rohan | Food: Pasta
+Quantity: 2 | Total Bill: Rs. 240
+
+Order ID: 5 | Customer: Sneha | Food: French Fries
+Quantity: 1 | Total Bill: Rs. 90
+
+Order ID: 6 | Customer: Akash | Food: Sandwich
+Quantity: 2 | Total Bill: Rs. 200
+
+Order ID: 7 | Customer: Neha | Food: Dosa
+Quantity: 3 | Total Bill: Rs. 210
+
+Order ID: 8 | Customer: Karan | Food: Biryani
+Quantity: 2 | Total Bill: Rs. 360
+
+Order ID: 9 | Customer: Pooja | Food: Noodles
+Quantity: 1 | Total Bill: Rs. 130
+
+Order ID: 10 | Customer: Om | Food: Pizza
+Quantity: 1 | Total Bill: Rs. 150
+
+Order ID: 11 | Customer: Anjali | Food: Burger
+Quantity: 3 | Total Bill: Rs. 240
+
+Order ID: 12 | Customer: Siddharth | Food: Biryani
+Quantity: 2 | Total Bill: Rs. 360
+
+
+Enter your choice: 4
+
+========== NEXT ORDER ==========
+
+Order ID: 1
+Customer: Rahul
+Food Item: Pizza
+Quantity: 2
+Total Bill: Rs. 300
+
+
+Enter your choice: 2
+
+========== DELIVERING ORDER ==========
+
+Order ID: 1
+Customer: Rahul
+Food Item: Pizza
+Quantity: 2
+Total Bill: Rs. 300
+
+Order delivered successfully!
+
+
+Enter your choice: 3
+
+========== PENDING FOOD ORDERS ==========
+
+Order ID: 2 | Customer: Amit | Food: Burger
+Quantity: 2 | Total Bill: Rs. 160
+
+Order ID: 3 | Customer: Priya | Food: Sandwich
+Quantity: 1 | Total Bill: Rs. 100
+
+Order ID: 4 | Customer: Rohan | Food: Pasta
+Quantity: 2 | Total Bill: Rs. 240
+
+Order ID: 5 | Customer: Sneha | Food: French Fries
+Quantity: 1 | Total Bill: Rs. 90
+
+Order ID: 6 | Customer: Akash | Food: Sandwich
+Quantity: 2 | Total Bill: Rs. 200
+
+Order ID: 7 | Customer: Neha | Food: Dosa
+Quantity: 3 | Total Bill: Rs. 210
+
+Order ID: 8 | Customer: Karan | Food: Biryani
+Quantity: 2 | Total Bill: Rs. 360
+
+Order ID: 9 | Customer: Pooja | Food: Noodles
+Quantity: 1 | Total Bill: Rs. 130
+
+Order ID: 10 | Customer: Om | Food: Pizza
+Quantity: 1 | Total Bill: Rs. 150
+
+Order ID: 11 | Customer: Anjali | Food: Burger
+Quantity: 3 | Total Bill: Rs. 240
+
+Order ID: 12 | Customer: Siddharth | Food: Biryani
+Quantity: 2 | Total Bill: Rs. 360
+
+
+Enter your choice: 5
+
+Thank you for using Food Delivery Order Queue!
