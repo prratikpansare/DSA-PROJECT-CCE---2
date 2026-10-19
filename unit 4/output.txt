@@ -1,0 +1,82 @@
+1. Create Root
+2. Add Subfolder
+3. Display Folders
+4. Calculate Sizes
+5. Exit
+Choice: 1
+Root name and size (KB): MainFolder 100
+Root created!
+
+Choice: 2
+Parent folder: MainFolder
+Subfolder name and size (KB): Documents 50
+Subfolder created!
+
+Choice: 2
+Parent folder: MainFolder
+Subfolder name and size (KB): Pictures 80
+Subfolder created!
+
+Choice: 2
+Parent folder: Documents
+Subfolder name and size (KB): College 30
+Subfolder created!
+
+Choice: 2
+Parent folder: Documents
+Subfolder name and size (KB): Projects 20
+Subfolder created!
+
+Choice: 2
+Parent folder: Pictures
+Subfolder name and size (KB): Photos 40
+Subfolder created!
+
+Choice: 2
+Parent folder: Pictures
+Subfolder name and size (KB): Videos 60
+Subfolder created!
+
+Choice: 2
+Parent folder: College
+Subfolder name and size (KB): Notes 15
+Subfolder created!
+
+Choice: 2
+Parent folder: College
+Subfolder name and size (KB): Assignments 25
+Subfolder created!
+
+Choice: 2
+Parent folder: Projects
+Subfolder name and size (KB): CppProject 35
+Subfolder created!
+
+Choice: 3
+
+MainFolder : 100 KB
+Documents : 50 KB
+College : 30 KB
+Notes : 15 KB
+Assignments : 25 KB
+Projects : 20 KB
+CppProject : 35 KB
+Pictures : 80 KB
+Photos : 40 KB
+Videos : 60 KB
+
+Choice: 4
+
+--- Total Folder Sizes ---
+Videos : 60 KB
+Pictures : 180 KB
+CppProject : 35 KB
+Projects : 55 KB
+Assignments : 25 KB
+Notes : 15 KB
+College : 70 KB
+Documents : 145 KB
+MainFolder : 425 KB
+
+Choice: 5
+Program ended.
