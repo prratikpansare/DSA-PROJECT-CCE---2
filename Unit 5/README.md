@@ -1,4 +1,4 @@
-# Web Page Navigation using DFS
+# Represent Web Pages and Hyperlinks Using a Directed Graph and Apply DFS
 
 ## Project Description
 
